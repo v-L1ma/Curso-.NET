@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2025-05-10",
+    "temperatureC": -17,
+    "temperatureF": 2,
+    "summary": "Bracing"
+  },
+  {
+    "date": "2025-05-11",
+    "temperatureC": -8,
+    "temperatureF": 18,
+    "summary": "Chilly"
+  },
+  {
+    "date": "2025-05-12",
+    "temperatureC": 46,
+    "temperatureF": 114,
+    "summary": "Chilly"
+  },
+  {
+    "date": "2025-05-13",
+    "temperatureC": -20,
+    "temperatureF": -3,
+    "summary": "Sweltering"
+  },
+  {
+    "date": "2025-05-14",
+    "temperatureC": 15,
+    "temperatureF": 58,
+    "summary": "Balmy"
+  }
+]
